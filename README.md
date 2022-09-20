@@ -5,3 +5,5 @@
 [](#)
 
 [Secret History of Windows Task Manager - Part 1 - Origins](https://www.youtube.com/watch?v=f8VBOiPV-_M)
+[Turing pattern](https://en.wikipedia.org/wiki/Turing_pattern)
+[Simple Turing Pattern simulator](https://gist.github.com/bellbind/a3cdbfc6354ea31080276323e5f8a103)
