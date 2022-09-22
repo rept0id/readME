@@ -52,3 +52,30 @@
 [So I got my hands on the original Windows XP source code, found some hilarious stuff](https://www.reddit.com/r/windows/comments/j06a3z/so_i_got_my_hands_on_the_original_windows_xp/)
 
 [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/)
+
+[How a Google side project evolved into a $4B company](https://techcrunch.com/2019/03/29/how-a-google-side-project-evolved-into-a-4b-company/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADEWurB28rGVph-66d6B-by9LQ3bzXU6VHw2Di0yLX6wFic8XaskCHte32BmMKePZZtgEZ958f8Kcz3CyP5ycb2Lk1Y0H-k5QAdF-zOlFXjNGK5KubU_QdEZ7A2w8M7INn7ZSR143ZHNvqnKqYNW7kg5CHaHrgW7RAxq-Ia2iw4O)
+
+[The CIA's EarthViewer was basically the original Google Earth](https://www.businessinsider.com/the-cias-earthviewer-was-the-original-google-earth-2015-11)
+
+[Historyofinformation.com](https://www.historyofinformation.com/)
+
+[Origins of Google Earth](https://www.historyofinformation.com/detail.php?entryid=3145)
+
+[The Kitab Rudjdjar, the Most Accurate World Map for Three Centuries](https://www.historyofinformation.com/index.php#entry_1775)
+
+[Springer Nature Publishes the First "Machine-Generated" Book](https://www.historyofinformation.com/index.php#entry_4773)
+
+[20 Years Later: How Concerns About Weaponized Consoles Almost Sunk the PS2](https://www.pcmag.com/news/20-years-later-how-concerns-about-weaponized-consoles-almost-sunk-the-ps2)
+
+[PS3 supercomputer leads in cryptography contest](https://www.umassd.edu/feature-stories/2014/ps3-supercomputer-cryptography-contest.html)
+
+[Roadrunner supercomputer](https://www.top500.org/resources/top-systems/roadrunner-los-alamos-national-laboratory/)
+
+[US Air Force connects 1,760 PlayStation 3's to build supercomputer](https://phys.org/news/2010-12-air-playstation-3s-supercomputer.html)
+
+[PlayStation 3 cluster](https://en.wikipedia.org/wiki/PlayStation_3_cluster)
+
+[The PlayStation Supercomputer](https://www.datacenterdynamics.com/en/analysis/the-playstation-supercomputer/)
+
+[Sony loses EU customs case as PS2 is branded a console ](https://www.gamesindustry.biz/sony-loses-eu-customs-case-as-ps2-is-branded-a-console)
+
