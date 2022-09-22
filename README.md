@@ -79,3 +79,6 @@
 
 [Sony loses EU customs case as PS2 is branded a console ](https://www.gamesindustry.biz/sony-loses-eu-customs-case-as-ps2-is-branded-a-console)
 
+[(Chernobyl) Probably the best DUGA RADAR "how it works" video on youtube! (must see the end!)](https://www.youtube.com/watch?v=WjoPy6drGBQ)
+
+[The Russian Woodpecker Signal - Recorded October 1982](https://www.youtube.com/watch?v=pvLyC4spWPg)
