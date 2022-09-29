@@ -82,3 +82,5 @@
 [(Chernobyl) Probably the best DUGA RADAR "how it works" video on youtube! (must see the end!)](https://www.youtube.com/watch?v=WjoPy6drGBQ)
 
 [The Russian Woodpecker Signal - Recorded October 1982](https://www.youtube.com/watch?v=pvLyC4spWPg)
+
+[Eruda - Console for Mobile Browsers](https://github.com/liriliri/eruda)
