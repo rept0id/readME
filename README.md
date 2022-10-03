@@ -89,4 +89,6 @@
 
 [OpenAI Dall-E 2](https://openai.com/dall-e-2/)
 
-[thispersondoesnotexist](https://thispersondoesnotexist.com/)
+[Thispersondoesnotexist](https://thispersondoesnotexist.com/)
+
+[Stablediffusion-infinity : Outpainting with Stable Diffusion on an infinite canvas](https://github.com/lkwq007/stablediffusion-infinity)
