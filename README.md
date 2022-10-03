@@ -84,3 +84,9 @@
 [The Russian Woodpecker Signal - Recorded October 1982](https://www.youtube.com/watch?v=pvLyC4spWPg)
 
 [Eruda - Console for Mobile Browsers](https://github.com/liriliri/eruda)
+
+[OpenAI Dall-E Wikipedia](https://en.wikipedia.org/wiki/DALL-E)
+
+[OpenAI Dall-E 2](https://openai.com/dall-e-2/)
+
+[thispersondoesnotexist](https://thispersondoesnotexist.com/)
