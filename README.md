@@ -94,3 +94,5 @@
 [Stablediffusion-infinity : Outpainting with Stable Diffusion on an infinite canvas](https://github.com/lkwq007/stablediffusion-infinity)
 
 [This ugly t-shirt makes you invisible to facial recognition tech](https://www.wired.co.uk/article/facial-recognition-t-shirt-block)
+
+[Bootsrap Studio](https://bootstrapstudio.io/)
