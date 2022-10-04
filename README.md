@@ -96,3 +96,13 @@
 [This ugly t-shirt makes you invisible to facial recognition tech](https://www.wired.co.uk/article/facial-recognition-t-shirt-block)
 
 [Bootsrap Studio](https://bootstrapstudio.io/)
+
+[Nuce Map Calculator](https://nuclearsecrecy.com/nukemap/)
+
+[Futures_studies](https://en.wikipedia.org/wiki/Futures_studies)
+
+[futuretimeline.net](https://www.futuretimeline.net/)
+
+[Year 2038 problem - NOTE : dont panic, only for 32 bit systems](https://en.wikipedia.org/wiki/2030s)
+
+[Europe’s Digital Decade: digital targets for 2030](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en)
