@@ -106,3 +106,5 @@
 [Year 2038 problem - NOTE : dont panic, only for 32 bit systems](https://en.wikipedia.org/wiki/2030s)
 
 [Europe’s Digital Decade: digital targets for 2030](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en)
+
+[Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
