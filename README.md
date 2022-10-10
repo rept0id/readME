@@ -112,3 +112,13 @@
 [How I Built the Entire Universe in Minecraft](https://www.youtube.com/watch?v=eAkb2mpybnM)
 
 [u/chrisdacow casually made the universe in Minecraft.](https://twitter.com/WCGamingTweets/status/1577970541419532289)
+
+[From Mathematics to Generic Programming Alexander A. Stepanov Daniel E. Rose ](https://bayanbox.ir/view/3002073151855816404/Alexander-A.-Stepanov-Daniel-E.-Rose-From-Mathematics-to-Generic-Programming-Addison-Wesley-Pearson-2015.pdf)
+
+[design patterns elements of reusable object-oriented software](http://www.javier8a.com/itc/bd1/articulo.pdf)
+
+[object oriented programming engineering ivar jacobson](https://archive.org/details/objectorientedso00jaco)
+
+[structure and interpretation of computer programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
+
+[1secondpainting AI painting](https://1secondpainting.com/app/)
