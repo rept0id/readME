@@ -110,3 +110,5 @@
 [Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
 
 [How I Built the Entire Universe in Minecraft](https://www.youtube.com/watch?v=eAkb2mpybnM)
+
+[u/chrisdacow casually made the universe in Minecraft.](https://twitter.com/WCGamingTweets/status/1577970541419532289)
