@@ -108,3 +108,5 @@
 [Europe’s Digital Decade: digital targets for 2030](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/europes-digital-decade-digital-targets-2030_en)
 
 [Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
+
+[How I Built the Entire Universe in Minecraft](https://www.youtube.com/watch?v=eAkb2mpybnM)
